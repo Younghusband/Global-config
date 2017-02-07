@@ -15,3 +15,5 @@
 	showtime = log --graph --pretty=oneline --abbrev-commit
 	p1 = log --pretty=oneline
 	gl = 
+	co = checkout
+	unstage = reset HEAD
