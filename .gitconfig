@@ -1,0 +1,17 @@
+[user]
+	name = vermouth.yf
+	email = vermouth.yf@gmail.com
+[core]
+	autocrlf = false
+[gui]
+     encoding = utf-8
+[i18n]
+     commitencoding = gbk
+[svn]
+     pathnameencoding = gbk
+[color]
+	ui = true
+[alias]
+	showtime = log --graph --pretty=oneline --abbrev-commit
+	p1 = log --pretty=oneline
+	gl = 
